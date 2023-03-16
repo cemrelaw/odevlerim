@@ -8,7 +8,7 @@ int main()
 	{	
 		for (int j = 1; j < 6; j++)
 		{
-			cout << i << " ";
+			cout << j << " ";
 		}
 		cout << endl;
 		for (int k = 0; k < 5; k++)
